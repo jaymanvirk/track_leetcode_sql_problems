@@ -1,5 +1,5 @@
 # Set of Leetcode SQL problems and solutions
 
 
-| Problem | Solution |
-| --- | --- |
+| id | Problem | Solution |
+| --- | --- | --- |
